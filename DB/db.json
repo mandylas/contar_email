@@ -1,0 +1,34 @@
+{
+    "Personas": [
+        {
+            "datos": ["Maria",15,"Valencia", "maria_josefina@gmail.com"],
+            "Materias": ["Quimica", "Fisica", "Matematica","Ingles"],
+            "Notas": [15,17,18,19]
+        },
+        {
+            "datos": ["Juan",16,"Madrid"],
+            "Materias": ["Quimica", "Fisica", "Matematica", "Ingles"],
+            "Notas": [16,18,19,20]
+        },
+        {
+            "datos": ["Pedro",17,"Barcelona", "pedro_pedro_pedro_p@gmail.com"],
+            "Materias": ["Quimica", "Fisica", "Matematica", "Ingles"],
+            "Notas": [17,18,19,20]
+        },
+        {
+            "datos": ["Ana",18,"Madrid"],
+            "Materias": ["Quimica", "Fisica", "Matematica", "Ingles"],
+            "Notas": [18,19,20,17]
+        },
+        {
+            "datos": ["Jose",19,"Barcelona", "elnegropepe_@yahoo.com"],
+            "Materias": ["Quimica", "Fisica", "Matematica", "Ingles"],
+            "Notas": [19,20,17,18]
+        },
+        {
+            "datos": ["Isabel",20,"Valencia", "Ingles","isa_2023@hatmail.com"],
+            "Materias": ["Quimica", "Fisica", "Matematica", "Ingles"],
+            "Notas": [20,17,18,15]
+        }
+    ]
+}
